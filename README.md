@@ -1,4 +1,3 @@
-main.html contains the main Html structure 
-style.css has CSS part
-javascriptfile.js contains JavaScript code.
+#StopWatch
 
+A simple stop watch using HTML, CSS and JavasSript.
